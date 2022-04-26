@@ -53,8 +53,8 @@ Project #2 will be graded using the following rubric. I strongly suggest evaluat
 
 | **Code**  |**I think I deserve:**   |**Actual Grade**   |**Notes** |
 | :------------------------------- | -------: |-------: | :---- |
-| 1: SVC                           |        /1|        /1|   |
-| 2: PCA                           |        /1|        /1|   | 
+| 1: PCA                           |        /1|        /1|   |
+| 2: SVC                           |        /1|        /1|   | 
 | 3: Perceptron                    |        /1|        /1|   |
 | 4: Multilayer Perceptron         |        /1|        /1|   | 
 | 5: 4 Visualizations              |        /4|        /4|   | 
