@@ -36,9 +36,6 @@ From Scikit-Learn:
 
 📉 📊 📈 💹 You also should include at least **4 visualizations (graphs)** of tuning parameters.
 
-## Extra Credit ✨
-You will have an opportunity to earn extra credit on this project. You will be able to earn up to 2 points of extra credit by using the IMDB database to build a **word-level** language model that is able to generate text (much like we did in [Day 23's Notes](https://github.com/urness/CS167Code/blob/main/Day23Notes_RNNs4NLP.ipynb). Build your model, train it, evaluate it, and then demonstrate that you are able to use it to generate new movie reviews. 
-
 # Rubric and Grading
 Project #2 will be graded using the following rubric. I strongly suggest evaluating your project using this rubric before turning it in.
 
@@ -63,12 +60,7 @@ Project #2 will be graded using the following rubric. I strongly suggest evaluat
 | 5: 4 Visualizations              |        /4|        /4|   | 
 | <b>Total                         |       /8 |        /8|</b>   |
 
-| **Extra Credit**  |**I think I deserve:**   |**Actual Grade**   |**Notes** |
-| :------------------------------- | -------: | ----: |:---- |
-| Word-Level Language Model             |        /1|       /1|   |
-| Examples of Generated Movie Reveiw    |        /1|       /1|   |
 
-
-| **Written Portion** 📝 | **Code Portion** 🖥️ | **Extra Credit** ✨  |**Total** ➕ |**Notes** 🗒️|
-| ---------: | -------------------: | ------------: |-------------: |---------- |
-|       /12  |                  /8 |           /0 |         /20|           |
+| **Written Portion** 📝 | **Code Portion** 🖥️ |**Total** ➕ |**Notes** 🗒️|
+| ---------: | -------------------: |-------------: |---------- |
+|       /12  |                  /8 |         /20|           |
