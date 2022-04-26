@@ -27,10 +27,10 @@ You will create a Colab notebook that includes your code and results to document
 7.  **Results** [1 point]: After you conduct your learning experiment, summarize the results you got. Include visualizations as appropriate. 
 8.  **Conclusions**: What insights/recommendations do you have? What did you find that was interesting? Which model was your best model, which models didn't work well? Why do you think this is? In general, I want a discussion of your experiment, the results, and what they mean.
 
-### Your Experiments Should Demonstrate the following Machine Leanring Techniques:
+### Your Experiments Should Demonstrate the following Machine Learning Techniques:
 From Scikit-Learn:
-- **Support Vector Classifer**
 - **Principal Component Analysis**
+- **Support Vector Classifer**
 - **Perceptron**
 - **MLP**
 
